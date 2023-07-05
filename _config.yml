@@ -20,7 +20,7 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "aboutus"
+  About Me: "aboutme"
   Services:
   Products:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
