@@ -22,9 +22,9 @@ author: Some Person
 navbar-links:
   About Me: "aboutus"
   Services:
-  Products:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Products: "products"
+    - Software: "https://beautifuljekyll.com"
+    - Hardware: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
 ################
