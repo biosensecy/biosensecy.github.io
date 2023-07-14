@@ -23,8 +23,8 @@ navbar-links:
   About Us: "aboutus"
   Services:
   Products: "products"
-    - Software: "https://beautifuljekyll.com"
-    - Hardware: "https://www.markdowntutorial.com/"
+    - Software: biosense tool kit
+    - Hardware: EMG sensors
   Blog: "blog"
 
 ################
