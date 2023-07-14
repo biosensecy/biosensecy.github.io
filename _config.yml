@@ -20,12 +20,12 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "aboutus"
+  About Us: "aboutus"
   Services:
   Products: "products"
     - Software: "https://beautifuljekyll.com"
     - Hardware: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Blog: "blog"
 
 ################
 # --- Logo --- #
