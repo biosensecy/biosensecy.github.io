@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About us
+title: Products
 subtitle: BIOSENSE
 ---
 
-Our product is a biofeedback mirror that can be used for diagnosis of occupational movement disorders
+Our product is a biofeedback mirror that can be used for the diagnosis of occupational movement disorders
 
 What do you need to know?
 
